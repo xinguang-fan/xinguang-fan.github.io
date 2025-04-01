@@ -4,6 +4,10 @@ title: "About Me"
 nav_order: 1
 ---
 
+[About Me](index.md) | [Research](research.md) | [Teaching](teaching.md)
+
+
+
 # About Me
 
 Hi! I'm **Xinguang Fan**, Assistant Professor of Sociology at Peking University.
