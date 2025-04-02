@@ -56,8 +56,8 @@ nav_order: 2
 ## 2020
 
 - **Fan, Xinguang**, and Maria Vignau Loria+. [Intimate Partner Violence and Contraceptive Use in Developing Countries: How Does the Relationship Depend on Context?](https://doi.org/10.4054/DemRes.2020.42.10) *Demographic Research*, 42: 293–342.
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;★**_IPUMS Global Health Research Award_**, University of Minnesota, 2021
+  <br>
+  <span style="font-size: 0.95em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em>IPUMS Global Health Research Award</em></strong>, University of Minnesota, 2021<span>
 
 ---
 
