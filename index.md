@@ -10,7 +10,7 @@ nav_order: 1
 
 # About Me
 
-Hi! I'm **Xinguang Fan**, Assistant Professor of Sociology at Peking University.
+I'm **Xinguang Fan**, Assistant Professor in the Department of Sociology at Peking University and a regional faculty affiliate at CSDE, UWashington. I obtained my PhD in Sociology from the University of Washington in 2020 and an MPhil in Social Sciences from HKUST in 2014, respectively. During the academic year 2023, I was a visiting scholar at the Department of Sociology, UC Berkeley, with the fellowship awarded by CSC.
 
 My research interests include demography, social networks, family, and computational social science.
 
