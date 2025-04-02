@@ -3,7 +3,11 @@
 
 @import "jekyll-theme-minimal";
 
-
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
 /* Global text styling */
 body {
   font-family: 'Lora', Georgia, serif;
