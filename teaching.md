@@ -6,10 +6,30 @@ nav_order: 3
 
 # Teaching
 
-**Current Courses**  
-- Introduction to Sociology  
-- Computational Methods in Social Science
+## Courses Taught
 
-**Past Courses**  
-- Demographic Analysis  
-- Advanced Statistics for Social Research
+### Undergraduate
+
+- **Social Network Analysis**
+- **Data Analysis**
+
+### Graduate
+
+- **Methodology in Sociological Research**
+- **Social Policy Evaluation**
+- **Seminars on Poverty and Social Inequality**
+
+---
+
+## Student Advising (Graduated)
+
+### Undergraduate Students
+
+- **Hao Cheng** — admitted to Ph.D. in Sociology, Tsinghua University (2024)
+- **Xinyao Shi** — graduated 2024
+- **Yifei Huang** — admitted to Ph.D. in Sociology, Brown University (2023)
+
+### Research Assistants
+
+- **Peixin Zhao** — MSMITE @ Carnegie Mellon (2019–2021); now Software Engineer @ Microsoft  
+- **Yanyijie Zhou** — MPhil in Development Studies @ Oxford (Rhodes Scholar); Ph.D. in Sociology @ Northwestern (2019–2021)
