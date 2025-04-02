@@ -17,4 +17,4 @@ I'm **Xinguang Fan**, Assistant Professor in the [Department of Sociology at Pek
 
 My research is mainly in demography, social inequality, and belief changes. By applying quantitative and computational methods, my work adopts a network and dynamic approach to understanding how population, social disparity, and belief evolve and the underlying forces shaping the process. My research topics include (1) the macro-, meso-, and micro-level mechanisms explaining population dynamics, focusing on internal migration and fertility trends in China. (2) attitude and belief changes from a dyadic/network perspective, focusing on information diffusion, perception bias, and preference formation. (3) the structural forces driving income and wealth disparity from a relational approach.
 
-[Download my CV (PDF)](assets/CV_20250401.pdf)
+[Download my CV (PDF)](assets/CV_20250402.pdf)
