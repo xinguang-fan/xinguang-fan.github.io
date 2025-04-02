@@ -2,3 +2,15 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+
+body {
+  font-family: "Georgia", serif; /* Example: Georgia */
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* Optional: customize headings */
+h1, h2, h3, h4 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
