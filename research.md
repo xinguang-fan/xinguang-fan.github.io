@@ -19,8 +19,7 @@ nav_order: 2
 
 ## Book Project
 
-*Floating China: How Family-oriented Culture Shapes Internal Migration, 1978–2020*  
-The Commercial Press, under contract. [In Chinese]
+*Floating China: How Family-oriented Culture Shapes Internal Migration, 1978–2020*. The Commercial Press, under contract. [In Chinese]
 
 ---
 
