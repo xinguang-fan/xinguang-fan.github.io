@@ -2,6 +2,11 @@
 ---
 
 @import "jekyll-theme-minimal";
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
 
 /* Global text styling */
 body {
@@ -10,9 +15,6 @@ body {
   line-height: 1.7;
   color: #1a1a1a;
   background-color: #ffffff;
-  margin: 0;
-  padding: 0;
-  max-width: 900px;
 }
 
 /* Headings */
