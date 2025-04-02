@@ -3,9 +3,11 @@ layout: default
 title: "Research"
 nav_order: 2
 ---
+<link href="https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
 
 # Research
-## 🧪 Working Papers
+## Working Papers
 
 - **Dai, Li**, and **Xinguang Fan***. *Loglinear Models Capture Prevalence, and the Exchange Index Captures Strength of Marital Status Exchange*. Under review.  
 - **Fang, Yiyang+**, and **Xinguang Fan***. *The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example*. Under review. [In Chinese]  
@@ -15,20 +17,20 @@ nav_order: 2
 
 ---
 
-## 📘 Book Project
+## Book Project
 
 **Floating China: How Family-oriented Culture Shapes Internal Migration, 1978–2020**  
 *The Commercial Press, under contract.* [In Chinese]
 
 ---
 
-## 📝 Forthcoming / Accepted
+## Forthcoming / Accepted
 
 - **Fan, Xinguang**. *Still Waters Run Deep: Social Changes, Marital Status, and Fertility Changes*. *Chinese Journal of Sociology*, conditionally accepted. [In Chinese]
 
 ---
 
-## 🗓 2024
+## 2024
 
 - **Fan, Xinguang**. *Fertility Responses to the COVID-19 Pandemic: A Perspective of Reproductive Process*. *Population and Development Review*, 50(2): 343–373. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12626)  
 - **Fan, Xinguang**, and **He Sheng+**. *Migration Experiences and Reproductive Behaviors: An Analysis Based on Fertility Diffusion Theory*. *Population Research*, 48(6): 84–99. [In Chinese] [Link](https://rkyj.ruc.edu.cn/CN/Y2024/V48/I6/84)  
@@ -37,7 +39,7 @@ nav_order: 2
 
 ---
 
-## 🗓 2023
+## 2023
 
 - **Fan, Xinguang**, and **Zhang, Yongjun**. *“Just a Virus” or Politicized Virus? Global Media Reporting of China on COVID-19*. *Chinese Sociological Review*, 55(1): 38–65. [DOI](https://doi.org/10.1080/21620555.2022.2116308)  
 - Zhang, Yongjun, Hao Lin+, Yi Wang, and **Xinguang Fan**. *Sinophobia Was Popular in Chinese Language Communities on Twitter during the Early COVID-19 Pandemic*. *Humanities and Social Sciences Communications*, 10(1): 1–12. [DOI](https://doi.org/10.1057/s41599-023-01959-6)  
@@ -45,26 +47,26 @@ nav_order: 2
 
 ---
 
-## 🗓 2022
+## 2022
 
 - Zhang, Yongjun, Sienna Thorgusen+, and **Xinguang Fan***. *News Coverage of Social Protests in Global Society*. *International Journal of Comparative Sociology*, 63(3): 105–27. [DOI](https://doi.org/10.1177/00207152221085601)
 
 ---
 
-## 🗓 2020
+## 2020
 
 - **Fan, Xinguang**, and **Maria Vignau Loria+**. *Intimate Partner Violence and Contraceptive Use in Developing Countries: How Does the Relationship Depend on Context?* *Demographic Research*, 42: 293–342. [DOI](https://doi.org/10.4054/DemRes.2020.42.10)  
   _IPUMS Global Health Research Award_, University of Minnesota, 2021
 
 ---
 
-## 🗓 2019
+## 2019
 
 - **Fan, Xinguang**. *Discrimination Experience, Family Relations, and Generalized Trust in China*. *Social Science Research*, 77: 115–129. [DOI](https://doi.org/10.1016/j.ssresearch.2018.10.009)
 
 ---
 
-## 🌐 Translation Works
+## Translation Works
 
 - **Fan, Xinguang** (Trans.). *Nonrecursive Models: Endogeneity, Reciprocal Relationships, and Feedback Loops* by Paxton, Hipp, and Marquart-Pyatt. Sage QASS Series. Shanghai: Truth and Wisdom Press.  
 - **Fan, Xinguang** (Trans.). *Event History and Survival Analysis: Regression for Longitudinal Event Data* by Paul D. Allison. Sage QASS Series. Shanghai: Truth and Wisdom Press.
