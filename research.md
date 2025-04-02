@@ -9,33 +9,33 @@ nav_order: 2
 # Research
 ## Working Papers
 
-- **Dai, Li**, and **Xinguang Fan***. *Loglinear Models Capture Prevalence, and the Exchange Index Captures Strength of Marital Status Exchange*. Under review.  
-- **Fang, Yiyang+**, and **Xinguang Fan***. *The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example*. Under review. [In Chinese]  
-- **Fan, Xinguang**, and **Fang, Hanjun+**. *Domestic Media Slant in the Global Context: A Dynamic Network Approach*.  
-  _Herbert Costner Best Graduate Paper Award_, UW Sociology, 2017  
+- Dai, Li, and **Xinguang Fan**. Loglinear Models Capture Prevalence, and the Exchange Index Captures Strength of Marital Status Exchange, under review.  
+- Fang, Yiyang+, and **Xinguang Fan**. The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example. Under review. [In Chinese]  
+- **Fan, Xinguang**, and Fang, Hanjun+. Domestic Media Slant in the Global Context: A Dynamic Network Approach.  
+  --Herbert Costner Best Graduate Paper Award_, UW Sociology, 2017  
 - **Fan, Xinguang**, and **Wang, Kaizhe+**. *Conditional Role-Model Effect: Birth Policy Change and Female Leadership’s Impact on Fertility Preferences*
 
 ---
 
 ## Book Project
 
-**Floating China: How Family-oriented Culture Shapes Internal Migration, 1978–2020**  
-*The Commercial Press, under contract.* [In Chinese]
+*Floating China: How Family-oriented Culture Shapes Internal Migration, 1978–2020*  
+The Commercial Press, under contract. [In Chinese]
 
 ---
 
 ## Forthcoming / Accepted
 
-- **Fan, Xinguang**. *Still Waters Run Deep: Social Changes, Marital Status, and Fertility Changes*. *Chinese Journal of Sociology*, conditionally accepted. [In Chinese]
+- **Fan, Xinguang**. Still Waters Run Deep: Social Changes, Marital Status, and Fertility Changes. *Chinese Journal of Sociology*, conditionally accepted. [In Chinese]
 
 ---
 
 ## 2024
 
-- **Fan, Xinguang**. *Fertility Responses to the COVID-19 Pandemic: A Perspective of Reproductive Process*. *Population and Development Review*, 50(2): 343–373. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12626)  
-- **Fan, Xinguang**, and **He Sheng+**. *Migration Experiences and Reproductive Behaviors: An Analysis Based on Fertility Diffusion Theory*. *Population Research*, 48(6): 84–99. [In Chinese] [Link](https://rkyj.ruc.edu.cn/CN/Y2024/V48/I6/84)  
-- **Fan, Xinguang**, and **Zhang, Yongjun**. *Between Truth and Falsehood: A Sociological Analysis of Rumors in the Digital Age*. *PKU Sociology Journal*, 3: 101–124. [In Chinese]  
-- Tong, Mingkun, Lu, Hong, Xu, Huiyu, **Fan, Xinguang**, et al. *Reduced Human Fecundity Attributable to Ambient Fine Particles in Low- and Middle-income Countries*. *Environment International*, 189: 108784. [DOI](https://doi.org/10.1016/j.envint.2024.108784)
+- **Fan, Xinguang**. (Fertility Responses to the COVID-19 Pandemic: A Perspective of Reproductive Process)[https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12626]. *Population and Development Review*, 50(2): 343–373.
+- **Fan, Xinguang**, and He Sheng+. (Migration Experiences and Reproductive Behaviors: An Analysis Based on Fertility Diffusion Theory)[https://rkyj.ruc.edu.cn/CN/Y2024/V48/I6/84]. *Population Research*, 48(6): 84–99. [In Chinese]
+- **Fan, Xinguang**, and Zhang, Yongjun. Between Truth and Falsehood: A Sociological Analysis of Rumors in the Digital Age. *PKU Sociology Journal*, 3: 101–124. [In Chinese]  
+- Tong, Mingkun, Lu, Hong, Xu, Huiyu, **Fan, Xinguang**, et al. (Reduced Human Fecundity Attributable to Ambient Fine Particles in Low- and Middle-income Countries)[https://doi.org/10.1016/j.envint.2024.108784]. *Environment International*, 189: 108784.
 
 ---
 
