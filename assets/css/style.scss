@@ -29,12 +29,29 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Links */
+/* Base link style */
 a {
   color: #007acc;
   text-decoration: none;
+  font-family: inherit;
 }
+
+/* Hover */
 a:hover {
   text-decoration: underline;
+  color: #005fa3;
+}
+
+/* Visited links — make them look the same */
+a:visited {
+  color: #007acc;
+  font-family: inherit;
+}
+
+/* Optional: when clicked */
+a:active {
+  color: #007acc;
+  font-family: inherit;
 }
 
 /* Paragraphs */
