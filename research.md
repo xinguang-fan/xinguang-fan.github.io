@@ -13,7 +13,7 @@ nav_order: 2
 - Fang, Yiyang+, and **Xinguang Fan**. The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example. Under review. [In Chinese]  
 - **Fan, Xinguang**, and Fang, Hanjun+. Domestic Media Slant in the Global Context: A Dynamic Network Approach.
   <br>
-    <small>&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em>Herbert Costner Best Graduate Paper Award</em></strong>, UW Sociology, 2017</small>
+    &nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em>Herbert Costner Best Graduate Paper Award</em></strong>, UW Sociology, 2017
 - **Fan, Xinguang**, and Wang, Kaizhe+. *Conditional Role-Model Effect: Birth Policy Change and Female Leadership’s Impact on Fertility Preferences*
 
 ---
