@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 nav_order: 2
 ---
-<link href="https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Georgia&family=Roboto:wght@500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 
 # Research
