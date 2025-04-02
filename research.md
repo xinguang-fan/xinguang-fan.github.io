@@ -12,7 +12,7 @@ nav_order: 2
 - Dai, Li, and **Xinguang Fan**. Loglinear Models Capture Prevalence, and the Exchange Index Captures Strength of Marital Status Exchange, under review.  
 - Fang, Yiyang+, and **Xinguang Fan**. The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example. Under review. [In Chinese]  
 - **Fan, Xinguang**, and Fang, Hanjun+. Domestic Media Slant in the Global Context: A Dynamic Network Approach.  
-   &nbsp;&nbsp;&nbsp;&nbsp;**_Herbert Costner Best Graduate Paper Award_**, UW Sociology, 2017
+   &nbsp;&nbsp;&nbsp;&nbsp;**★_Herbert Costner Best Graduate Paper Award_**, UW Sociology, 2017
 - **Fan, Xinguang**, and Wang, Kaizhe+. *Conditional Role-Model Effect: Birth Policy Change and Female Leadership’s Impact on Fertility Preferences*
 
 ---
@@ -55,7 +55,7 @@ nav_order: 2
 ## 2020
 
 - **Fan, Xinguang**, and Maria Vignau Loria+. [Intimate Partner Violence and Contraceptive Use in Developing Countries: How Does the Relationship Depend on Context?](https://doi.org/10.4054/DemRes.2020.42.10) *Demographic Research*, 42: 293–342.
-  &nbsp;&nbsp;&nbsp;&nbsp;**_IPUMS Global Health Research Award_**, University of Minnesota, 2021
+  &nbsp;&nbsp;&nbsp;&nbsp;**★_IPUMS Global Health Research Award_**, University of Minnesota, 2021
 
 ---
 
