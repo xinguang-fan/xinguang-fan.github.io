@@ -14,7 +14,7 @@ nav_order: 2
 - **Fan, Xinguang**, and Fang, Hanjun+. Domestic Media Slant in the Global Context: A Dynamic Network Approach.
   <br>
     <span style="font-size: 0.95em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em>Herbert Costner Best Graduate Paper Award</em></strong>, UW Sociology, 2017<span>
-- **Fan, Xinguang**, and Wang, Kaizhe+. *Conditional Role-Model Effect: Birth Policy Change and Female Leadership’s Impact on Fertility Preferences*
+- **Fan, Xinguang**, and Wang, Kaizhe+. Conditional Role-Model Effect: Birth Policy Change and Female Leadership’s Impact on Fertility Preferences
 
 ---
 
@@ -57,7 +57,7 @@ nav_order: 2
 
 - **Fan, Xinguang**, and Maria Vignau Loria+. [Intimate Partner Violence and Contraceptive Use in Developing Countries: How Does the Relationship Depend on Context?](https://doi.org/10.4054/DemRes.2020.42.10) *Demographic Research*, 42: 293–342.
   <br>
-  <span style="font-size: 0.95em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em><a href= "https://www.ipums.org/2020-award-winners">IPUMS Global Health Research Award<a></em></strong>, University of Minnesota, 2021<span>
+  <span style="font-size: 0.95em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em><a href= "https://www.ipums.org/2020-award-winners">IPUMS Global Health Research Award</a></em></strong>, University of Minnesota, 2021<span>
 
 ---
 
