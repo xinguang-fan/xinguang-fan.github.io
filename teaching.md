@@ -47,6 +47,6 @@ nav_order: 3
 
 ### Research Assistants
 - Yihan Wang — *ongoing*
-- Ruoxin Zhang - Associate @ Boston Consulting Group (BCG), Shanghai
+- Ruoxin Zhang - Now associate @ Boston Consulting Group (BCG), Shanghai
 - Peixin Zhao — MSMITE @ Carnegie Mellon; now Software Engineer @ Microsoft  
 - Yanyijie Zhou — M.Phil. in Development Studies @ Oxford (Rhodes Scholar); incoming Ph.D. student in joint Management and Organizations and Sociology program @ Northwestern
