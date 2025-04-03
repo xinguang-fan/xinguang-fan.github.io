@@ -3,7 +3,7 @@ layout: default
 title: "Teaching"
 nav_order: 3
 ---
-<link href="https://fonts.googleapis.com/css2?family=Source Sans Pro&family=Roboto:wght@500&display=swap" rel="stylesheet">
+
 <link rel="stylesheet" href="assets/style.css">
 
 
