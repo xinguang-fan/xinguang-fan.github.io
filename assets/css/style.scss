@@ -34,21 +34,22 @@ h1, h2, h3, h4, h5 {
   margin-bottom: 0.5em;
 }
 
-/* 🔗 All link states */
+/* Normalize all link states */
 a,
 a:visited,
 a:active,
 a:focus {
   color: #007acc;
+  font-family: inherit !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
   text-decoration: none;
-  font-family: inherit !important;  /* ✅ This prevents font switching */
 }
 
 a:hover {
   text-decoration: underline;
   color: #005fa3;
 }
-
 /* Paragraphs */
 p {
   margin-bottom: 1em;
