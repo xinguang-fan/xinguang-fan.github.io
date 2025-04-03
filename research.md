@@ -12,7 +12,7 @@ nav_order: 2
 ## Working Papers
 
 - Dai, Li, and **Xinguang Fan\***. Loglinear Models Capture Prevalence, and the Exchange Index Captures Strength of Marital Status Exchange, *Under review*.  
-- Fang, Yiyang+, and **Xinguang Fan**. The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example. *Under review*. [In Chinese]  
+- Fang, Yiyang+, and **Xinguang Fan\***. The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example. *Under review*. [In Chinese]  
 - **Fan, Xinguang**, and Fang, Hanjun+. Domestic Media Slant in the Global Context: A Dynamic Network Approach.
   <br>
     <span style="font-size: 0.95em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em>Herbert Costner Best Graduate Paper Award</em></strong>, UW Sociology, 2017<span>
