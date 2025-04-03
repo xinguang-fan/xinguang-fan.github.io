@@ -28,9 +28,9 @@ nav_order: 3
 
 ## Student Advising
 ### Graduate Students
-- **Xuedong Liu** — 2024-
-- **Kaizhe Wang** — 2023-
-- **Hanjun Fang** — 2023-
+- **Xuedong Liu** — ongoing
+- **Kaizhe Wang** — ongoing
+- **Hanjun Fang** — ongoing
 
 ### Undergraduate Students
 - **Yanan Guo** — ongoing
@@ -38,7 +38,9 @@ nav_order: 3
 - **Xi Yang** — onging
 - **Yuemeng Li** — onging
 - **Haoyuan Luo** — onging
-- **Yuehan Ma** — onging
+- **Qiaomei Luo** — onging
+- **Jiahui Wang** — onging
+- **Yuhan Ma** — onging
 - **Hao Cheng** — now Ph.D. student in Sociology@Tsinghua University (2024)
 - **Xinyao Shi** — graduated 2024
 - **Yifei Huang** — now Ph.D. student in Sociology@Brown University (2023)
