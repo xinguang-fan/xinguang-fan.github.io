@@ -12,7 +12,7 @@ nav_order: 2
 # Research
 ## Working Papers
 
-- Dai, Li, and **Xinguang Fan**. Loglinear Models Capture Prevalence, and the Exchange Index Captures Strength of Marital Status Exchange, under review.  
+- Dai, Li, and **Xinguang Fan***. Loglinear Models Capture Prevalence, and the Exchange Index Captures Strength of Marital Status Exchange, under review.  
 - Fang, Yiyang+, and **Xinguang Fan**. The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example. Under review. [In Chinese]  
 - **Fan, Xinguang**, and Fang, Hanjun+. Domestic Media Slant in the Global Context: A Dynamic Network Approach.
   <br>
