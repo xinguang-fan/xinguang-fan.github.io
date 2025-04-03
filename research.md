@@ -37,7 +37,7 @@ nav_order: 2
 - **Fan, Xinguang**. [Fertility Responses to the COVID-19 Pandemic: A Perspective of Reproductive Process](https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12626). *Population and Development Review*, 50(2): 343–373.
 - **Fan, Xinguang**, and He Sheng+. [Migration Experiences and Reproductive Behaviors: An Analysis Based on Fertility Diffusion Theory](https://rkyj.ruc.edu.cn/CN/Y2024/V48/I6/84). *Population Research*, 48(6): 84–99. [In Chinese]
 - **Fan, Xinguang**, and Zhang, Yongjun. Between Truth and Falsehood: A Sociological Analysis of Rumors in the Digital Age. *PKU Sociology Journal*, 3: 101–124. [In Chinese]  
-- Tong, Mingkun, Lu, Hong, Xu, Huiyu, **Fan, Xinguang**, et al. [Reduced Human Fecundity Attributable to Ambient Fine Particles in Low- and Middle-income Countries](https://doi.org/10.1016/j.envint.2024.108784). *Environment International*, 189: 108784.
+- Tong, Mingkun, Lu, Hong, Xu, Huiyu, **Xinguang Fan**, et al. [Reduced Human Fecundity Attributable to Ambient Fine Particles in Low- and Middle-income Countries](https://doi.org/10.1016/j.envint.2024.108784). *Environment International*, 189: 108784.
 
 ---
 
