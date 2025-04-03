@@ -15,13 +15,13 @@ nav_order: 3
 
 ### Graduate
 
-- **Methodology in Sociological Research**
-- **Social Policy Evaluation**
-- **Seminars on Poverty and Social Inequality**
+- *Methodology in Sociological Research*
+- *Social Policy Evaluation*
+- *Seminars on Poverty and Social Inequality*
 ### Undergraduate
 
-- **Social Network Analysis**
-- **Data Analysis**
+- *Social Network Analysis*
+- *Data Analysis*
 
 
 ---
