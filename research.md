@@ -46,7 +46,7 @@ nav_order: 2
 
 - **Fan, Xinguang**, and Zhang, Yongjun. [“Just a Virus” or Politicized Virus? Global Media Reporting of China on COVID-19](https://doi.org/10.1080/21620555.2022.2116308). *Chinese Sociological Review*, 55(1): 38–65.
 - Zhang, Yongjun, Hao Lin+, Yi Wang, and **Xinguang Fan**. [Sinophobia Was Popular in Chinese Language Communities on Twitter during the Early COVID-19 Pandemic](https://doi.org/10.1057/s41599-023-01959-6). *Humanities and Social Sciences Communications*, 10(1): 1–12.
-- Xue, Tao, Jiajianghui Li, Mingkun Tong, **Fan, Xinguang**, et al. [Stillbirths Attributable to Open Fires and Their Geographic Disparities in Non-Western Countries](https://doi.org/10.1016/j.envpol.2023.122170). *Environmental Pollution*, 334: 122170.
+- Xue, Tao, Jiajianghui Li, Mingkun Tong, **Xinguang Fan**, et al. [Stillbirths Attributable to Open Fires and Their Geographic Disparities in Non-Western Countries](https://doi.org/10.1016/j.envpol.2023.122170). *Environmental Pollution*, 334: 122170.
 
 ---
 
