@@ -13,7 +13,7 @@ nav_order: 1
 
 # About Me
 
-I'm **Xinguang Fan**, Assistant Professor in the [Department of Sociology at Peking University](http://www.shehui.pku.edu.cn/) and a regional faculty affiliate at the [Center for Studies in Demography and Ecology, University of Washington(UW)](https://csde.washington.edu/). I obtained my PhD in Sociology from UW in 2020 and an MPhil in Social Sciences from [HKUST](https://sosc.hkust.edu.hk/) in 2014, respectively. During the academic year 2023, I was a visiting scholar at the [Department of Sociology, UC Berkeley](https://sociology.berkeley.edu/), with a scholarship awarded by the [Chinese Scholarship Council(CSC)](https://www.chinesescholarshipcouncil.com/).
+I'm **Xinguang Fan**, Assistant Professor in the [Department of Sociology at Peking University](http://www.shehui.pku.edu.cn/) and a regional faculty affiliate at the [Center for Studies in Demography and Ecology, University of Washington(UW)](https://csde.washington.edu/). I obtained my PhD in Sociology from UW in 2020 and an MPhil in Social Sciences from [HKUST](https://sosc.hkust.edu.hk/) in 2014, respectively. During the academic year 2023, I was a visiting scholar at the [Department of Sociology, UC Berkeley](https://sociology.berkeley.edu/) under a scholarship awarded by the [Chinese Scholarship Council(CSC)](https://www.chinesescholarshipcouncil.com/).
 
 My research is mainly in demography, social inequality, and computational social science. Much of my work adopts a network and dynamic approach by applying quantitative and computational methods. My work has been recognized by [IPUMS Global Health Research Awards(2020)](https://www.ipums.org/2020-award-winners), etc.
 
