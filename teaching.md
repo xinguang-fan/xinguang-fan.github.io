@@ -39,11 +39,11 @@ nav_order: 3
 - **Yuemeng Li** — onging
 - **Haoyuan Luo** — onging
 - **Yuehan Ma** — onging
-- **Hao Cheng** — admitted to Ph.D. in Sociology@Tsinghua University (2024)
+- **Hao Cheng** — now Ph.D. student in Sociology@Tsinghua University (2024)
 - **Xinyao Shi** — graduated 2024
-- **Yifei Huang** — admitted to Ph.D. in Sociology@Brown University (2023)
+- **Yifei Huang** — now Ph.D. student in Sociology@Brown University (2023)
 
 ### Research Assistants
 - **Yihan Wang** — onging
 - **Peixin Zhao** — MSMITE @ Carnegie Mellon; now Software Engineer @ Microsoft  
-- **Yanyijie Zhou** — M.Phil. in Development Studies @ Oxford (Rhodes Scholar); Ph.D. in Sociology @ Northwestern
+- **Yanyijie Zhou** — M.Phil. in Development Studies @ Oxford (Rhodes Scholar); incoming Ph.D. student in Sociology @ Northwestern
