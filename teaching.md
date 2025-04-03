@@ -27,14 +27,23 @@ nav_order: 3
 ---
 
 ## Student Advising (Graduated)
+### Undergraduate Students
+- **Xuedong Liu** — 2024-
+- **Kaizhe Wang** — 2023-
+- **Hanjun Fang** — 2023-
 
 ### Undergraduate Students
-
+- **Yanan Guo** — ongoing
+- **Junyang Zhang** — onging
+- **Xi Yang** — onging
+- **Yuemeng Li** — onging
+- **Haoyuan Luo** — onging
+- **Yuehan Ma** — onging
 - **Hao Cheng** — admitted to Ph.D. in Sociology, Tsinghua University (2024)
 - **Xinyao Shi** — graduated 2024
 - **Yifei Huang** — admitted to Ph.D. in Sociology, Brown University (2023)
 
 ### Research Assistants
-
+- **Yihan Wang** — onging
 - **Peixin Zhao** — MSMITE @ Carnegie Mellon (2019–2021); now Software Engineer @ Microsoft  
 - **Yanyijie Zhou** — MPhil in Development Studies @ Oxford (Rhodes Scholar); Ph.D. in Sociology @ Northwestern (2019–2021)
