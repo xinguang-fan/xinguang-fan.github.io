@@ -28,24 +28,24 @@ nav_order: 3
 
 ## Student Advising
 ### Graduate Students
-- **Xuedong Liu** — ongoing
-- **Kaizhe Wang** — ongoing
-- **Hanjun Fang** — ongoing
+- Xuedong Liu — *ongoing*
+- Kaizhe Wang — *ongoing*
+- Hanjun Fang — *ongoing*
 
 ### Undergraduate Students
-- **Yanan Guo** — ongoing
-- **Junyang Zhang** — onging
-- **Xi Yang** — onging
-- **Yuemeng Li** — onging
-- **Haoyuan Luo** — onging
-- **Qiaomei Luo** — onging
-- **Jiahui Wang** — onging
-- **Yuhan Ma** — onging
-- **Hao Cheng** — now Ph.D. student in Sociology@Tsinghua University (2024)
-- **Xinyao Shi** — graduated 2024
-- **Yifei Huang** — now Ph.D. student in Sociology@Brown University (2023)
+- Yanan Guo — *ongoing*
+- Junyang Zhang — *ongoing*
+- Xi Yang — *ongoing*
+- Yuemeng Li — *ongoing*
+- Haoyuan Luo — *ongoing*
+- Qiaomei Luo — *ongoing*
+- Jiahui Wang — *ongoing*
+- Yuhan Ma — *ongoing*
+- Hao Cheng — now Ph.D. student in Sociology@Tsinghua University (2024)
+- Xinyao Shi — graduated 2024
+- Yifei Huang — now Ph.D. student in Sociology@Brown University (2023)
 
 ### Research Assistants
-- **Yihan Wang** — onging
-- **Peixin Zhao** — MSMITE @ Carnegie Mellon; now Software Engineer @ Microsoft  
-- **Yanyijie Zhou** — M.Phil. in Development Studies @ Oxford (Rhodes Scholar); incoming Ph.D. student in joint Management and Organizations and Sociology program @ Northwestern
+- Yihan Wang — *ongoing*
+- Peixin Zhao — MSMITE @ Carnegie Mellon; now Software Engineer @ Microsoft  
+- Yanyijie Zhou — M.Phil. in Development Studies @ Oxford (Rhodes Scholar); incoming Ph.D. student in joint Management and Organizations and Sociology program @ Northwestern
