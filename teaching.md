@@ -46,4 +46,4 @@ nav_order: 3
 ### Research Assistants
 - **Yihan Wang** — onging
 - **Peixin Zhao** — MSMITE @ Carnegie Mellon; now Software Engineer @ Microsoft  
-- **Yanyijie Zhou** — M.Phil. in Development Studies @ Oxford (Rhodes Scholar); incoming Ph.D. student in Sociology @ Northwestern
+- **Yanyijie Zhou** — M.Phil. in Development Studies @ Oxford (Rhodes Scholar); incoming Ph.D. student in joint Management and Organizations and Sociology program @ Northwestern
