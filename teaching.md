@@ -13,21 +13,21 @@ nav_order: 3
 
 ## Courses Taught
 
-### Undergraduate
-
-- **Social Network Analysis**
-- **Data Analysis**
-
 ### Graduate
 
 - **Methodology in Sociological Research**
 - **Social Policy Evaluation**
 - **Seminars on Poverty and Social Inequality**
+### Undergraduate
+
+- **Social Network Analysis**
+- **Data Analysis**
+
 
 ---
 
 ## Student Advising
-### Undergraduate Students
+### Graduate Students
 - **Xuedong Liu** — 2024-
 - **Kaizhe Wang** — 2023-
 - **Hanjun Fang** — 2023-
