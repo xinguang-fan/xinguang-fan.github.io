@@ -18,6 +18,7 @@ nav_order: 3
 - *Methodology in Sociological Research*
 - *Social Policy Evaluation*
 - *Seminars on Poverty and Social Inequality*
+
 ### Undergraduate
 
 - *Social Network Analysis*
