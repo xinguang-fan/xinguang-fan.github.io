@@ -58,16 +58,24 @@ p {
 li {
   margin-bottom: 1rem;
 }
-
-
-/* Make the left sidebar narrower */
+/* Shrink sidebar */
 .sidebar {
-  width: 200px !important;
+  width: 180px !important;
+  padding: 1rem;
 }
 
-/* Push the main content to take up more space */
+/* Adjust wrapper (main content area) to fit new sidebar size */
 .wrapper {
-  margin-left: 220px !important;  /* match sidebar + padding */
-  max-width: none !important;    /* remove max-width restriction */
-  width: auto !important;
+  margin-left: 200px !important;
+  max-width: none !important;
+  width: auto;
+}
+
+/* Make profile photo responsive and constrained */
+.sidebar img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  margin: 0 auto;
 }
