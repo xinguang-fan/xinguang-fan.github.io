@@ -23,4 +23,4 @@ The second project investigates how beliefs, narratives, and information distort
 The third project builds a task-centered approach to studying occupational dynamics in contemporary labor markets. This project links micro-level task processes—such as initiation, evaluation, adaptation, and exit—to broader labor transitions. Adopting a demographic perspective on job tasks, this research further explores how changes in occupational structure and skill demand in China intersect with algorithmic management, workplace monitoring, and social networks. It aims to uncover how institutional sorting and algorithmic control contribute to new forms of labor-based inequality in the digital era. This project is funded by the PKU-Wuhan Institute for AI(PWIAI).
 
 
-[Download my CV (PDF)](assets/CV_20250402.pdf)
+[Download my CV (PDF)](assets/Xinguang_Fan_CV.pdf)
