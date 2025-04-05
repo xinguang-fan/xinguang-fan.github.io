@@ -15,7 +15,7 @@ nav_order: 2
 - Fang, Yiyang+, and **Xinguang Fan\***. The Trend of Skipped-Generation Household in China (2010–2020): Taking Central China as an Example. *Under review*. [In Chinese]  
 - **Fan, Xinguang**, and Hanjun Fang+. Domestic Media Slant in the Global Context: A Dynamic Network Approach.
   <br>
-    <span style="font-size: 0.95em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em>Herbert Costner Best Graduate Paper Award</em></strong>, UW Sociology, 2017<span>
+    <span style="font-size: 0.8em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em>Herbert Costner Best Graduate Paper Award</em></strong>, UW Sociology, 2017<span>
 - **Fan, Xinguang**, and Kaizhe Wang+. Conditional Role-Model Effect: Birth Policy Change and Female Leadership’s Impact on Fertility Preferences
 
 ---
@@ -100,7 +100,7 @@ nav_order: 2
     <summary><em>Show abstract</em></summary>
     <p>BACKGROUND: Reducing domestic violence and increasing contraceptive use are two ways to improve women’s health in developing countries. Social scientists debate whether women’s experiences of intimate partner violence influence contraceptive use. The empirical evidence evaluating the relationship yields inconsistent results. These contradictory findings might be due to specific regional conditions that moderate the relationship. METHODS: Using 30 panels of DHS data from 17 developing countries, this study examines the relationship between intimate partner violence and contraceptive use in a cross-national comparison and assesses whether this relationship is moderated by macro contextual factors, including the presence or absence of legal regulations against domestic violence and the national level of female empowerment. RESULTS: Experience of either physical or sexual violence is associated with an increase in contraceptive use, and is statistically significant in a cross-national setting. The magnitude of the positive relationship between physical and sexual violence and contraceptive use decreases in the presence of legal regulations against domestic violence. The positive association of sexual violence with contraceptive use decreases in contexts with higher levels of women’s empowerment. However, there is no change in the positive association between physical violence and contraceptive use in contexts with higher levels of women’s empowerment. These results are robust to additional sensitivity tests. CONTRIBUTION: This study demonstrates how macro contexts moderate the relationship between intimate partner violence and contraceptive use. The results inform and reconcile previous findings by demonstrating that the positive relationship between women’s experience of violence by an intimate partner and contraceptive use can be attenuated when structural conditions change – namely, adoption of legal protections and improved women’s empowerment.</p>
   </details>
-  <span style="font-size: 0.2em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em><a href= "https://www.ipums.org/2020-award-winners">IPUMS Global Health Research Award</a></em></strong>, University of Minnesota, 2020<span>
+  <span style="font-size: 0.8em;">&nbsp;&nbsp;&nbsp;&nbsp;★ <strong><em><a href= "https://www.ipums.org/2020-award-winners">IPUMS Global Health Research Award</a></em></strong>, University of Minnesota, 2020<span>
 
 ---
 
