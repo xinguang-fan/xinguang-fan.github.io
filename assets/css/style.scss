@@ -60,20 +60,20 @@ li {
 }
 /* Shrink sidebar */
 .sidebar {
-  width: 100px !important;
+  width: 150px !important;
   padding: 1rem;
 }
 
 /* Adjust wrapper (main content area) to fit new sidebar size */
 .wrapper {
-  margin-left: 250px !important;
+  margin-left: 200px !important;
   max-width: none !important;
   width: auto;
 }
 
 /* Make profile photo responsive and constrained */
 .sidebar img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   border-radius: 6px;
   display: block;
