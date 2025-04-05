@@ -60,13 +60,13 @@ li {
 }
 /* Shrink sidebar */
 .sidebar {
-  width: 180px !important;
+  width: 150px !important;
   padding: 1rem;
 }
 
 /* Adjust wrapper (main content area) to fit new sidebar size */
 .wrapper {
-  margin-left: 200px !important;
+  margin-left: 150px !important;
   max-width: none !important;
   width: auto;
 }
