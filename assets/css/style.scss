@@ -58,24 +58,3 @@ p {
 li {
   margin-bottom: 1rem;
 }
-/* Shrink sidebar */
-.sidebar {
-  width: 150px !important;
-  padding: 1rem;
-}
-
-/* Adjust wrapper (main content area) to fit new sidebar size */
-.wrapper {
-  margin-left: 100px !important;
-  max-width: none !important;
-  width: auto;
-}
-
-/* Make profile photo responsive and constrained */
-.sidebar img {
-  max-width: 50%;
-  height: auto;
-  border-radius: 6px;
-  display: block;
-  margin: 0 auto;
-}
