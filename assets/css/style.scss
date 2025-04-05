@@ -56,5 +56,18 @@ p {
 
 /* Increase spacing between publication list items */
 li {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+
+/* Make the left sidebar narrower */
+.sidebar {
+  width: 200px !important;
+}
+
+/* Push the main content to take up more space */
+.wrapper {
+  margin-left: 220px !important;  /* match sidebar + padding */
+  max-width: none !important;    /* remove max-width restriction */
+  width: auto !important;
 }
