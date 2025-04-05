@@ -35,6 +35,11 @@ nav_order: 2
 ## 2024
 
 - **Fan, Xinguang**. [Fertility Responses to the COVID-19 Pandemic: A Perspective of Reproductive Process](https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12626). *Population and Development Review*, 50(2): 343–373.
+  <details>
+    <summary><em>Show abstract</em></summary>
+    <p>The COVID-19 pandemic has potential large-scale impacts on population dynamics. Yet, recent theories and empirical analyses fall short of fully articulating the extent and nature of the pandemic's influence on birth rates at the aggregate level. This study advances the comprehension of fertility dynamics amid the pandemic by focusing on the reproductive process. The effects of the pandemic on conceptions and pregnancy terminations may exhibit considerable variability, which, in turn, could dictate the observed patterns in birth rates during the pandemic. Employing the data from the Performance Monitoring Action survey in Burkina Faso and Kenya, which includes information on conceptions, pregnancy terminations, and births, the research dissects the nuances of fertility behavior in response to the pandemic. Findings indicate an uptick in conception rates around six months following the onset of the pandemic in Kenya, while pregnancy terminations did not significantly shift in either country. Further, the data reveal a pronounced increase in conception rates among disadvantaged groups, whereas a downturn in pregnancy terminations was noted predominantly in urban areas during the early phase of the pandemic. These findings underscore the importance of considering the reproductive process when studying fertility responses to catastrophic events.</p>
+  </details>
+  
 - **Fan, Xinguang**, and He Sheng+. [Migration Experiences and Reproductive Behaviors: An Analysis Based on Fertility Diffusion Theory](https://rkyj.ruc.edu.cn/CN/Y2024/V48/I6/84). *Population Research*, 48(6): 84–99. [In Chinese]
 - **Fan, Xinguang**, and Zhang, Yongjun. Between Truth and Falsehood: A Sociological Analysis of Rumors in the Digital Age. *PKU Sociology Journal*, 3: 101–124. [In Chinese]  
 - Tong, Mingkun, Lu, Hong, Xu, Huiyu, **Xinguang Fan**, et al. [Reduced Human Fecundity Attributable to Ambient Fine Particles in Low- and Middle-income Countries](https://doi.org/10.1016/j.envint.2024.108784). *Environment International*, 189: 108784.
