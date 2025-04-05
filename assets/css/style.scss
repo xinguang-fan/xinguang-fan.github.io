@@ -1,5 +1,10 @@
 ---
 ---
+@import "{{ site.theme }}";
+.inner {
+  max-width: 75%;
+}
+
 
 @import "jekyll-theme-minimal";
 body, .container-lg, .container, main {
@@ -8,12 +13,6 @@ body, .container-lg, .container, main {
   margin: 0 auto;
   padding: 2rem 1.5rem;
   box-sizing: border-box;
-}
-
-@import "{{ site.theme }}";
-
-.inner {
-  max-width: 75%;
 }
 
 /* Global text styling */
