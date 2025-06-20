@@ -26,15 +26,20 @@ nav_order: 2
 
 ---
 
-## Forthcoming / Accepted
+## 2025
 
-- **Fan, Xinguang**. Still Waters Run Deep: Social Changes, Marital Status, and Fertility Changes. *Chinese Journal of Sociology*, conditionally accepted. [In Chinese]
+- **Fan, Xinguang**. Still Waters Run Deep: Social Changes, Marital Status, and Fertility Changes. *Chinese Journal of Sociology*, forthcoming. [In Chinese]
     <details>
     <summary><em>Show abstract</em></summary>
     <p>Following the completion of the fertility transition, the structural composition of marital status has remained relatively stable over the long term due to the counterbalancing effects of rising average age and increasing educational attainment on marital status. Using a conditional decomposition method and Monte Carlo simulations, this study estimates the impact of marital status on fertility changes. Based on microdata from four population censuses (1990–2020), the analysis reveals a gradually increasing contribution of marital status to fertility change, which is closely linked to the level of social development. This contribution follows a decreasing gradient from urban to rural areas and from more developed to less developed regions. Further analysis indicates the spatial heterogeneity in the relationship between social development factors and the contribution of marital status. The findings support the critical role of marriage in fertility changes and provide insights into the applicability of the second demographic transition theory in China. Therefore, a deeper understanding of China’s long-term low fertility trend requires further theoretical and empirical attention to shifts in marital attitudes and their influence on fertility behavior.</p>
   </details>
 
----
+- Li, Pengfei, Mingkun Tong, Jingyi Wu, Xia Meng, **Xinguang Fan**, et al. [Flood Exposure Contributes to Under-five mortality in Low- and Middle-Income Countries](https://doi.org/10.1016/j.oneear.2025.101305). *One Earth*, 8(5):101305.
+  <details>
+    <summary><em>Show abstract</em></summary>
+    <p>Flood, a natural disaster closely related to global climate change, harms child health. However, the long-term effect of flood exposure on child mortality is unknown, particularly in low- and middle-income countries (LMICs). Here, based on a sibling-matched case-control design and exposure data of 913 large flood events, we first estimate the under-5 deaths (U5Ds) attributable to long-term flood exposure in 100 LMICs, where there are >90% of global U5Ds. We find that, in 2017, in the 100 LMICs, 26.4% of children <5 years of age were exposed to flood at least once during their life course, which was associated with 33,000 (95% confidence interval [CI] 4,000, 57,000) premature deaths. The chronic effect could be significantly larger than direct child mortality attributable to natural forces (i.e., 832 [95% CI 806, 856] U5Ds). The long-term health impacts of floods are nonnegligible, and the vulnerable communities identified in this study can help plan relevant climate-health services and public health interventions.
+</p>
+  </details>
 
 ## 2024
 
